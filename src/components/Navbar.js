@@ -3,11 +3,9 @@ import React from "react";
 function Navbar() {
   return (
     <>
-      <nav class="navbar bg-body-tertiary">
-        <div class="container-fluid">
-          <span class="navbar-brand mb-0 h1 font-weight-bold">Navbar</span>
-        </div>
-      </nav>
+      <div className="my-4">
+        <span className="font-weight-bold h2">Navbar</span>
+      </div>
     </>
   );
 }

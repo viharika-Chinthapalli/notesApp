@@ -1,0 +1,16 @@
+.bg{
+  background-color: rgb(109, 250, 232);
+}
+
+.br{
+  border-radius: 20px;
+}
+
+.b{
+  border: none;
+  resize: none;
+  outline: none;
+  border-color: transparent;
+  overflow: auto;
+  box-shadow: none;
+}
